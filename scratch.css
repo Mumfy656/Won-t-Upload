@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+    font-size: 17px;
+    color: gray
+}
+p{
+    font-family: papyrus;
+    font-size: 22px;
+    color: brown
+}
+li{
+    font-style: italic;
+    font-weight: normal;
+}
+.font1{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.font2{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.font3{
+    font-weight: bold;
+    font-family: sans-serif;
+}
